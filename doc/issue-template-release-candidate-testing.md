@@ -1,3 +1,5 @@
+Note: This template is still under development & discussion and is not ready for general usage.
+
 OK I published a release candidate here:
 RELEASE_CANDIDATE_URL
 
