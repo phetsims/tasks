@@ -4,7 +4,7 @@ OK I published a release candidate here:
 RELEASE_CANDIDATE_URL
 
 And the test matrix is here:
-TEST_MATRIX_URL
+https://docs.google.com/spreadsheet/ccc?key=0AnwuYps_JQNtdEdScUZrNFJaS21ma0tRai1Mb3V3emc&usp=drive_web#gid=2
 
 Aside from the test matrix (linked above), please run the following tests:
 
