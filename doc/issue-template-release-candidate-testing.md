@@ -1,0 +1,18 @@
+OK I published a release candidate here:
+RELEASE_CANDIDATE_URL
+
+And the test matrix is here:
+TEST_MATRIX_URL
+
+Aside from the test matrix (linked above), please run the following tests:
+
+- [ ] test a few platforms with ?ea
+- [ ] test the iframe on Firefox (and specify version tested) (iframe is here: http://www.colorado.edu/physics/phet/dev/html/forces-and-motion-basics/1.1.0-rc.1/forces-and-motion-basics_en-iframe.html )
+- [ ] test the iframe on IE (and specify version tested)
+- [ ] test that it runs offline on one or two platforms
+- [ ] check the ?showPointerAreas on one or two platforms
+- [ ] test with ?dev and see if the layout bounds look good on one platform
+
+Thanks!
+
+Reassigning to @ariel-phet to prioritize and reassign.
