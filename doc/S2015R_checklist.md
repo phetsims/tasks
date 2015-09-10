@@ -4,6 +4,7 @@
 - [ ] Review and update licensing info (source code and images/audio)
   - [ ] Double check relevant entries in https://github.com/phetsims/sherpa/blob/master/third-party-licenses.md 
 - [ ] Address RC issues and publish
+- [ ] Standardize the string keys, since they will be difficult to change later
 
 **QA**
 - [ ] stringTest=SomeExtremelyLongStringThatWouldLikelyBreakAnythingThatDoubleDidNotExpose
