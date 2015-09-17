@@ -5,6 +5,7 @@
   - [ ] Double check relevant entries in https://github.com/phetsims/sherpa/blob/master/third-party-licenses.md 
 - [ ] Address RC issues and publish
 - [ ] Standardize the string keys, since they will be difficult to change later
+- [ ] Identify any strings in sims that should move to another repository, move them now
 
 **QA**
 - [ ] stringTest=SomeExtremelyLongStringThatWouldLikelyBreakAnythingThatDoubleDidNotExpose
