@@ -10,6 +10,7 @@ assignees: ''
 ## Instructions/Considerations
 
 - The template content below is a starting point, feel free to adapt as needed for the sim or situation!
+- Add images directly in the issue (if you would like anything other than the default sim screenshot)
 - Should credit be given to external contributors?
 - Should this only be sent to a subset of opted-in PhET user? (e.g. only 'Math' 'Teachers'/'Teacher Educator/Coach')
 - Is there a strict send date? (must be sent before X)
