@@ -18,11 +18,11 @@ assignees: ''
 - Should credit be given to external contributors?
 - Should this only be sent to a subset of opted-in PhET user? (e.g. only 'Math' 'Teachers'/'Teacher Educator/Coach')
 - Is there a strict send date? (must be sent before X)
-- Translated? (typically, yes - we send in both English and Spanish. But indicate if the email should _not_ be translated)
+- Translated? (Indicate if the email should _not_ be translated. Typically, we send in both English and Spanish.)
 
 # Full publication (strict port)
 
-{{sim name}} now in HTML5!
+# {{sim name}} now in HTML5!
 
 {{sim description}}
 The new {{sim name}} has all the same features as the original but with seamless performance on all your classroom devices.
@@ -32,13 +32,13 @@ The new {{sim name}} has all the same features as the original but with seamless
 {{optional additional sim description}}
 
 {{learning goals, typically the same as sim page}}
-Sample Learning Goals
+## Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-Movement Features
+## Inclusive Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
@@ -49,7 +49,7 @@ Your PhET Team
 
 # Full publication (port, significant redesign)
 
-Announcing {{sim name}}!
+# Announcing {{sim name}}!
 
 We are excited to announce our latest simulation, {{sim name}}! 
 
@@ -63,13 +63,13 @@ With 4 screens and many powerful new capabilities, we are very excited about the
 In the new Standard Form screen, you can identify the vertex, axis of symmetry, and roots of a parabola. Head over to the Vertex Form screen and interact with the graph or equation in vertex form. Finally, interact with the focus and vertex in the Focus & Directrix screen.
 
 {{learning goals, typically the same as sim page}}
-Sample Learning Goals
+## Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-Movement Features
+## Inclusive Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
@@ -80,7 +80,7 @@ Your PhET Team
 
 # Full publication (brand new sim)
 
-Announcing {{sim name}}!
+# Announcing {{sim name}}!
 
 {{sim description}}
 We are excited to announce an our latest simulation, {{sim name}}! This sim allows students to explore the properties and behavior of sound by seeing (and hearing!) the resulting waves. Students can also adjust properties of the speakers, investigate two-source interference and reflection, or even see the effects of a vacuum.
@@ -88,13 +88,13 @@ We are excited to announce an our latest simulation, {{sim name}}! This sim allo
 {{sim screenshot}}
 
 {{learning goals, typically the same as sim page}}
-Sample Learning Goals
+## Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-Movement Features
+## Inclusive Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
@@ -105,7 +105,7 @@ Your PhET Team
 
 # Prototype
 
-Announcing {{sim name}}!
+# Announcing {{sim name}}!
 
 We are excited to announce a our latest simulation prototype, {{sim name}}! This sim allows students to explore the properties and behavior of sound by seeing (and hearing!) the resulting waves. Students can also adjust properties of the speakers, investigate two-source interference and reflection, or even see the effects of a vacuum.
 
@@ -114,13 +114,13 @@ We are excited to announce a our latest simulation prototype, {{sim name}}! This
 _Keep in mind: Prototypes may not include all planned features and have undergone limited testing. If you find bugs, please report them to us!_
 
 {{learning goals, typically the same as sim page}}
-Sample Learning Goals
+## Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-Movement Features
+## Movement Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
