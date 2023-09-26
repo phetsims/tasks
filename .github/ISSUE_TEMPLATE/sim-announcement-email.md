@@ -7,13 +7,15 @@ assignees: ''
 
 ---
 
-## Writing Consideration
+## Instructions/Considerations
 
 - The template content below is a starting point, feel free to adapt as needed for the sim or situation!
 - Should credit be given to external contributors?
 - Should this only be sent to a subset of opted-in PhET user? (e.g. only 'Math' 'Teachers'/'Teacher Educator/Coach')
 - Is there a strict send date? (must be sent before X)
 - Translated? (Indicate if the email should _not_ be translated. Typically, we send in both English and Spanish.)
+- Should other team members sign-off on the email content prior to sending?
+- Assign @oliver-phet to this issue once the content is finalized (optionally: request a test email, if you'd like to see how the email looks rendered in your email client)
 
 # Full publication (strict port)
 
