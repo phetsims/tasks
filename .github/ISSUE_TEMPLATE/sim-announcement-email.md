@@ -7,14 +7,9 @@ assignees: ''
 
 ---
 
-# Instructions
-1. Create an issue utilizing the templated content below that matches the sim publication as a starting point (delete the remaining templates)
-1. Assign all stakeholders that need to sign-off on the email content before it is sent to users.
-1. Assign @oliver-phet when the email content is ready to be built. (Optionally) request a test send to you or others.
+## Writing Consideration
 
-## Questions to consider when writing
-
-- Should funding be acknowledged?
+- The template content below is a starting point, feel free to adapt as needed for the sim or situation!
 - Should credit be given to external contributors?
 - Should this only be sent to a subset of opted-in PhET user? (e.g. only 'Math' 'Teachers'/'Teacher Educator/Coach')
 - Is there a strict send date? (must be sent before X)
@@ -22,7 +17,7 @@ assignees: ''
 
 # Full publication (strict port)
 
-# {{sim name}} now in HTML5!
+## {{sim name}} now in HTML5!
 
 {{sim description}}
 The new {{sim name}} has all the same features as the original but with seamless performance on all your classroom devices.
@@ -32,13 +27,13 @@ The new {{sim name}} has all the same features as the original but with seamless
 {{optional additional sim description}}
 
 {{learning goals, typically the same as sim page}}
-## Sample Learning Goals
+### Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-## Inclusive Features
+### Inclusive Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
@@ -49,7 +44,7 @@ Your PhET Team
 
 # Full publication (port, significant redesign)
 
-# Announcing {{sim name}}!
+## Announcing {{sim name}}!
 
 We are excited to announce our latest simulation, {{sim name}}! 
 
@@ -63,13 +58,13 @@ With 4 screens and many powerful new capabilities, we are very excited about the
 In the new Standard Form screen, you can identify the vertex, axis of symmetry, and roots of a parabola. Head over to the Vertex Form screen and interact with the graph or equation in vertex form. Finally, interact with the focus and vertex in the Focus & Directrix screen.
 
 {{learning goals, typically the same as sim page}}
-## Sample Learning Goals
+### Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-## Inclusive Features
+### Inclusive Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
@@ -80,7 +75,7 @@ Your PhET Team
 
 # Full publication (brand new sim)
 
-# Announcing {{sim name}}!
+## Announcing {{sim name}}!
 
 {{sim description}}
 We are excited to announce an our latest simulation, {{sim name}}! This sim allows students to explore the properties and behavior of sound by seeing (and hearing!) the resulting waves. Students can also adjust properties of the speakers, investigate two-source interference and reflection, or even see the effects of a vacuum.
@@ -88,13 +83,13 @@ We are excited to announce an our latest simulation, {{sim name}}! This sim allo
 {{sim screenshot}}
 
 {{learning goals, typically the same as sim page}}
-## Sample Learning Goals
+### Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-## Inclusive Features
+### Inclusive Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
@@ -105,7 +100,7 @@ Your PhET Team
 
 # Prototype
 
-# Announcing {{sim name}}!
+## Announcing {{sim name}}!
 
 We are excited to announce a our latest simulation prototype, {{sim name}}! This sim allows students to explore the properties and behavior of sound by seeing (and hearing!) the resulting waves. Students can also adjust properties of the speakers, investigate two-source interference and reflection, or even see the effects of a vacuum.
 
@@ -114,13 +109,13 @@ We are excited to announce a our latest simulation prototype, {{sim name}}! This
 _Keep in mind: Prototypes may not include all planned features and have undergone limited testing. If you find bugs, please report them to us!_
 
 {{learning goals, typically the same as sim page}}
-## Sample Learning Goals
+### Sample Learning Goals
 - Learning goal 1
 - Learning goal 2
 - Learning goal 3
 
 {{Inclusive Features, if applicable}}
-## Movement Features
+### Inclusive Features
 - (Touch devices) Challenge yourself to move your hands proportionally by maintaining each ratio while moving the sim's hands from low to high on the screen
 - (Alternative Input) Move the sim’s hands “rhythmically” to keep proportion by using the keyboard to control the left and right hands simultaneously.
 
