@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-#Instructions
+# Instructions
 1. Create an issue utilizing the templated content below that matches the sim publication as a starting point (delete the remaining templates)
 1. Assign all stakeholders that need to sign-off on the email content before it is sent to users.
 1. Assign @oliver-phet when the email content is ready to be built. (Optionally) request a test send to you or others.
@@ -20,7 +20,7 @@ assignees: ''
 - Is there a strict send date? (must be sent before X)
 - Translated? (typically, yes - we send in both English and Spanish. But indicate if the email should _not_ be translated)
 
-#Full publication (strict port)
+# Full publication (strict port)
 
 {{sim name}} now in HTML5!
 
@@ -47,7 +47,7 @@ A big thanks to our donors who allow us to keep creating new sims! If you haven'
 
 Your PhET Team
 
-#Full publication (port, significant redesign)
+# Full publication (port, significant redesign)
 
 Announcing {{sim name}}!
 
@@ -78,7 +78,7 @@ A big thanks to our donors who allow us to keep creating new sims! If you haven'
 
 Your PhET Team
 
-#Full publication (brand new sim)
+# Full publication (brand new sim)
 
 Announcing {{sim name}}!
 
@@ -103,7 +103,7 @@ A big thanks to our donors who allow us to keep creating new sims! If you haven'
 
 Your PhET Team
 
-#Prototype
+# Prototype
 
 Announcing {{sim name}}!
 
